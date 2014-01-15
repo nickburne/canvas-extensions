@@ -63,7 +63,7 @@ class Pootlepress_Canvas_Extensions {
 	 */
 	public function add_theme_options ( $o ) {
 		$o[] = array(
-				'name' => __( 'Pootlepress Canvas Extensions', 'pootlepress-canvas-extensions' ), 
+				'name' => __( 'Canvas Extensions', 'pootlepress-canvas-extensions' ), 
 				'icon' => 'favorite', 
 				'type' => 'heading'
 				);
