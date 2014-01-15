@@ -78,7 +78,7 @@ class Pootlepress_Canvas_Extensions {
 			//Sticky Nav
 			if ($this->is_stickynav_activated()) {
 				$o[] = array(
-						'name' => 'Pootlepress Sticky Nav', 
+						'name' => 'Sticky Nav', 
 						'type' => 'subheading'
 						);
 				$o[] = array(
