@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Pootlepress Canvas Extensions
-Plugin URI: http://pootlepress.co.uk/
+Plugin URI: http://pootlepress.com/
 Description: The main plugin for Pootlepress' Canvas Extensions. Install me to access a range of plugins from Pootlepress
 Version: 1.0.0
 Author: Pootlepress
-Author URI: http://pootlepress.co.uk/
+Author URI: http://pootlepress.com/
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 /*  Copyright 2014  Pootlepress  (email : jamie@pootlepress.co.uk)
